@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>https://crampaldo.github.io/blog/</link>
+    <description>Blog</description>
+    <copyright>© Copyright 2022. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 11 Apr 2022 22:43:16 GMT</lastBuildDate>
+    <generator>https://retype.com</generator>
+    <atom:link rel="self" type="application/rss+xml" href="https://crampaldo.github.io/blog/feed.xml" />
+    <image>
+      <title>Blog</title>
+      <link>https://crampaldo.github.io/blog/</link>
+      <url>https://crampaldo.github.io/favicon.ico</url>
+    </image>
+    <item>
+      <title>Try to make a blog page</title>
+      <guid isPermaLink="true">https://crampaldo.github.io/blog/blog/</guid>
+      <description>This is my first blog article.</description>
+      <author>Luca Rampini</author>
+      <pubDate>Mon, 11 Apr 2022 22:43:16 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
