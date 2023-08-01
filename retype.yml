@@ -4,7 +4,7 @@ url: crampaldo.github.io # Add your website address here
 branding:
   title: Luca Rampini
 links:
-- text: Blog
+- text: Luca Blog
   link: Luca_blog/First_article.md
 - text: Books
   link: books/Atomic_habits.md
