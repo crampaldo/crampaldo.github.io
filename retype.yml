@@ -5,7 +5,7 @@ branding:
   title: Luca Rampini
 links:
 - text: Blog
-  link: /blog
+  link: Luca_blog/First_article.md
 - text: Books
   link: books/Atomic_habits.md
 - text: Twitter
